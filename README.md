@@ -27,3 +27,5 @@ Co było wykorzystane przy napisaniu kodu?
 HTML,CSS,Java Script.
 
 ver0.00.beta
+
+Napisałam początkowy kod w HTML.
