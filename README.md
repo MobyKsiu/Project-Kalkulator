@@ -7,9 +7,13 @@ Aplikacja kalkulatora to narzędzie, które umożliwia wykonywanie obliczeń mat
 Jak działa (zasada)?
 
 -Wprowadzanie danych
+
 -Przechowywanie danych
+
 -Przetwarzanie obliczeń
--Wyświetlanie wyników:
+
+-Wyświetlanie wyników
+
 -Obsługa błędów
 
 Na czym polega interakcja z użytkownikiem(opisać mechanizm)?
