@@ -25,3 +25,5 @@ Na czym polega interakcja z użytkownikiem(opisać mechanizm)?
 Co było wykorzystane przy napisaniu kodu?
 
 HTML,CSS,Java Script.
+
+ver0.00.beta
