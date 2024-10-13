@@ -18,7 +18,7 @@ Jak działa (zasada)?
 
 Na czym polega interakcja z użytkownikiem(opisać mechanizm)?
 
-1. Wprowadzanie danych: Użytkownik wprowadza liczby i operacje matematyczne za pomocą przycisków na klawiaturze. 
+1. Wprowadzanie danych: Użytkownik wprowadza liczby i operacje matematyczne za pomocą przycisków na ekranie. 
 2. Wyświetlanie wyników: Po wprowadzeniu danych i naciśnięciu przycisku „=”, kalkulator przetwarza informacje i wyświetla wynik na ekranie.
 3. Obsługa błędów: Jeśli użytkownik wprowadzi błędne dane (np. dzielenie przez zero), kalkulator informuje o błędzie.
 
