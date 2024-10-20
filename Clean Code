@@ -1,0 +1,53 @@
+Jakie metody CleanCode były zastosowane?
+
+1.DRY(Don't Repeat Yourself)
+
+-Unikanie powtarzania tego samego kodu.
+
+Zmiany i wyjaśnienie:
+
+Na początku  wykorzystałam dużo właściwośći background color chociaż mogłam to zapisać w jednej klasie "container" co i zrobiłam po wykorzystywaniy metody DRY , to działanie spowodowało unikania  powtarzania tego samego kodu.
+
+2.YAGNI(You Aren't Gonna Need It)
+
+-Metoda , która mówi, że nie powinno się dodawać funkcji ani kodu, które nie są aktualnie potrzebne.
+
+Zmiany i wyjaśnienie:
+
+Dodałam dwie niepotrzebne zmiene na ten moment , przez to  zrobiłam rozmiar fajlu większy niż mógłby być.
+  
+3.Readable Code
+
+-Kod, który jest jasny, dobrze zorganizowany i łatwy do zrozumienia, co pozwala programistom szybko uchwycić jego cel i funkcjonalność.
+
+Zmiany i wyjaśnienie:
+
+Miałam na początku trudny do czytania kod nie tylko dla mnie a i dla innych programistów, ale po rozdzieleniu spacjam już było jasno co gdzie się znajduje a także moje zmienne mieli nazwe a,b,c, i to też utrudniało zrozumienie kodu.
+
+4.TDA(Tell, Don't Ask)
+
+ -Zasada związana z czystym kodem, która skupia się na tym, jak projektować klasy i metody, aby były bardziej intuicyjne i zrozumiałe. 
+
+Zmiany i wyjaśnienie:
+
+Klasa Calculator: Wprowadzenie klasy pozwala na lepsze zorganizowanie kodu i enkapsulację logiki kalkulatora.
+
+Metoda clearAll: Metoda odpowiedzialna za resetowanie wszystkich wartości kalkulatora i aktualizację wyświetlacza.
+
+Metoda handleButtonClick: Obsługuje zdarzenia kliknięcia, sprawdzając, czy naciśnięty element to przycisk.
+
+Metoda processInput: Decyduje, czy wprowadzenie dotyczy cyfry czy operatora.
+
+Metoda addDigit: Dodaje cyfry do number1, a po zakończeniu obliczenia resetuje number1.
+
+Metoda setOperation: Ustawia operator, a także przygotowuje się do wprowadzenia drugiej liczby.
+
+Metoda updateDisplay: Umożliwia aktualizację wyświetlacza bezpośrednio z metody, co upraszcza kod.
+
+5 .Fail Fast
+
+-Zasada, która promuje szybkie wykrywanie błędów w kodzie, co pozwala na szybsze ich naprawianie i unikanie dalszych komplikacji.
+
+  Zmiany i wyjaśnienie:
+
+Miałam żle zapisanę co po  niektóre elementy mojego kodu , co spowodowało by że kod działa nie prawidłowo albo wogóle nie działa , radze testować swój kod dużo razy żeby szybko znależć problem, i nie szukać póżniej 4 godziny jakąs literówke w jednym słowie.
