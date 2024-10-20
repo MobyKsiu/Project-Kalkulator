@@ -30,6 +30,7 @@ ver0.00.beta
 
 Napisałam początkowy kod w HTML.
 
-ver0.10.beta
-Napisałam 
+ver0.1.beta
+
+Zaczełam pisać kod w HTML,CSS,JS i zastosowałam metody Clean Code .
 
