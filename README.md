@@ -26,26 +26,6 @@ Co było wykorzystane przy napisaniu kodu?
 
 HTML,CSS,Java Script.
 
-Jakie metody CleanCode były zastosowane?
-
-1.DRY(Don't Repeat Yourself)
-
--Unikanie powtarzania tego samego kodu.
-
-2.YAGNI(You Aren't Gonna Need It)
-
--Metoda , która mówi, że nie powinno się dodawać funkcji ani kodu, które nie są aktualnie potrzebne. 
-
-3.Readable Code
-
--Kod, który jest jasny, dobrze zorganizowany i łatwy do zrozumienia, co pozwala programistom szybko uchwycić jego cel i funkcjonalność.
-
-4.Kiss
-
-5 .Fail Fast
-
--Zasada, która promuje szybkie wykrywanie błędów w kodzie, co pozwala na szybsze ich naprawianie i unikanie dalszych komplikacji.
-
 ver0.00.beta
 
 Napisałam początkowy kod w HTML.
