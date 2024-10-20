@@ -22,7 +22,7 @@ Dodałam dwie niepotrzebne  właściwość obiektu na ten moment , przez to  zro
 
 Zmiany i wyjaśnienie:
 
-Miałam na początku trudny do czytania kod nie tylko dla mnie a i dla innych programistów, ale po rozdzieleniu spacjam już było jasno co gdzie się znajduje a także moje zmienne mieli nazwe a,b,c, i to też utrudniało zrozumienie kodu.
+Miałam na początku trudny do czytania kod nie tylko dla mnie a i dla innych programistów, ale po rozdzieleniu spacjam już było jasno co gdzie się znajduje a także moje zmiena i tablicy mieli nazwe a,b,c, i to też utrudniało zrozumienie kodu.
 
 4.TDA(Tell, Don't Ask)
 
