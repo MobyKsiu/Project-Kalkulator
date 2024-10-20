@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(125, 125, 125);
+}
+.container{
+    width: 300px;
+    height: 500px;
+    border: 3px  solid rgb(172, 13, 220);
+    border-radius:20px;
+    background-color: #000;
+    color:white;
+    font-family:Arial;
+    padding: 18px;
+    box-shadow: 10px 10px 15px  rgb(109, 8, 140);
+   margin: 50px auto;
+    
+}
+.screen{
+    height:125px;
+    padding:10px;
+    display: grid;
+    justify-items: end;
+    align-items: end;
+    margin-bottom: 25px;
+}
+.screen p{
+    text-align: right;
+    font-size: 4rem;
+    margin: 0;
+}
+.buttons{
+    display: grid;
+    grid-template-areas: 
+    "ac plus-minus percent division"
+    "seven eight nine multi"
+    "four five six minus"
+    "one two three plus"
+    "zero zero dot equal";
+    grid-gap: 7px;
+    justify-items: center;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    background-color:rgb(48, 48, 48) ;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    user-select: none;
+    
+}
+.btn.zero{
+    grid-area: zero;
+    width: 100%;
+    border-radius: 34px;
+}
+.btn:hover {
+   filter:brightness(120%)
+}
+.btn:active{
+    filter: brightness(90%);
+}
+.btn.bg-grey{
+    background-color: rgb(132, 132, 132);
+}
+.btn.bg-purple{
+    background-color: rgb(109, 8, 140);
+}
+
+
