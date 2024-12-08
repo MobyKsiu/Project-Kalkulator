@@ -2,7 +2,7 @@
 # My first GitHub project
 Do czego służy aplikacja(cel)?
 
-Aplikacja kalkulatora to narzędzie, które umożliwia wykonywanie obliczeń matematycznych, takich jak dodawanie, odejmowanie, mnożenie i dzielenie.Jest powszechnie używana w życiu codziennym, w szkołach i w pracy, co ułatwia szybkie rozwiązywanie problemów matematycznych.
+Celem projektu, który ja stworzyłam, jest kalkulator o nazwie „Celestial Calculator”, który umożliwia wykonywanie podstawowych operacji matematycznych, takich jak dodawanie, odejmowanie, mnożenie, dzielenie, obliczanie procentów i korzystanie z nawiasów.Jest powszechnie używana w życiu codziennym, w szkołach i w pracy, co ułatwia szybkie rozwiązywanie problemów matematycznych.
 
 Jak działa (zasada)?
 
@@ -18,13 +18,46 @@ Jak działa (zasada)?
 
 Na czym polega interakcja z użytkownikiem(opisać mechanizm)?
 
-1. Wprowadzanie danych: Użytkownik wprowadza liczby i operacje matematyczne za pomocą przycisków na ekranie. 
-2. Wyświetlanie wyników: Po wprowadzeniu danych i naciśnięciu przycisku „=”, kalkulator przetwarza informacje i wyświetla wynik na ekranie.
-3. Obsługa błędów: Jeśli użytkownik wprowadzi błędne dane (np. dzielenie przez zero), kalkulator informuje o błędzie.
+Wprowadzenie danych:Użytkownik wprowadza cyfry, klikając odpowiednie przyciski na klawiaturze kalkulatora, a wprowadzone dane pojawiają się na ekranie.
+Wykonywanie operacji:Po kliknięciu na operator matematyczny użytkownik wprowadza drugą liczbę, a wynik obliczenia uzyskuje po naciśnięciu przycisku "=".
+Zarządzanie błędami który zrobił użytkownik: możliwość usuwania nie calych wprowadzonych przez uzytkownika liczb i operacij a pojedynczo można usunąć każdy znak.
+Reakcja na kliknięcia:Po najechaniu na przycisk użytkownik widzi natychmiastową reakcję zmieniający się efekt wizualny przycisku.
 
 Co było wykorzystane przy napisaniu kodu?
 
-HTML,CSS,Java Script.
+HTML,CSS,Java Script i pisałam ten projekt w Visual Studio Code.
+
+Testy:
+
+Przy stworzeniu danego projektu robiłam testy funkcjonalne i testy jednostkowe i na ten moment każdy z moich testów wykazywał zgodność działnia z założeniami, testy przez inego użytkownika jeszcze nie było dla tego że projekt nie jest skoczony.
+
+Interfejs programu:
+
+Interfejs aplikacji składa się z następujących głównych elementów:
+
+Ekran kalkulatora (Display): Zawiera dwie sekcje:
+Input: Wyświetla wprowadzone dane oraz operacje matematyczne.
+Output: Wyświetla wynik obliczeń po naciśnięciu przycisku "=".
+Klawiatura kalkulatora (Keys):
+Przyciski numeryczne: Klawisze od 0 do 9, umożliwiające wprowadzanie liczb.
+Operatory matematyczne: Klawisze „+”, „-”, „x”, „÷”, które pozwalają na wykonywanie podstawowych operacji matematycznych.
+Przycisk „AC”: Służy do wyczyszczenia wszystkich danych i resetowania kalkulatora.
+Przycisk „( )”: Umożliwia wstawianie nawiasów w wyrażeniach matematycznych.
+Przycisk „<”: Funkcja usuwania ostatniego wprowadzonego znaku (backspace).
+Przycisk „.”: Umożliwia wprowadzenie separatora dziesiętnego (kropki).
+Przycisk „%”: Pozwala na obliczenie procentu wartości.
+Przycisk „=”: Oblicza wynik wyrażenia matematycznego i wyświetla go na ekranie.
+
+Instrukcja użytkowania
+ 
+Aby skorzystać z aplikacji kalkulatora:
+
+1.Otwórz stronę w przeglądarce internetowej.
+2.Kliknij na odpowiednie przyciski numeryczne, aby wprowadzić liczby.
+3.Wybierz odpowiednie operatory matematyczne (np. dodawanie, odejmowanie, mnożenie, dzielenie) w zależności od obliczenia.
+4.Naciśnij przycisk "=" w celu obliczenia wyniku.
+5.Aby wyczyścić wprowadzone dane, naciśnij przycisk „AC”.
+6.Aby usunąć ostatni wprowadzony znak, użyj przycisku „<”.
 
 ver0.00.beta
 
@@ -34,3 +67,5 @@ ver0.1.beta
 
 Zaczełam pisać kod w HTML,CSS,JS i zastosowałam metody Clean Code .
 
+ver0.2.beta
+Napisałam cały kod w CSS i HTML a kod js jeszcze nie skonczyłam dodałam wytłumaczenia dla użytkownika i przcisk który zawiera żródła.
