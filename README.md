@@ -89,3 +89,7 @@ Zaczełam pisać kod w HTML,CSS,JS i zastosowałam metody Clean Code .
 ver0.2.beta
 
 Napisałam cały kod w CSS i HTML a kod js jeszcze nie skonczyłam dodałam wytłumaczenia dla użytkownika i przcisk który zawiera żródła.
+
+ver0.3.beta
+
+Napisałam kod w js dziala poprawnie ale jeszcze sa bledy z obliczeniami.
