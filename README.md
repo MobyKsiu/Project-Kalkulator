@@ -93,3 +93,12 @@ Napisałam cały kod w CSS i HTML a kod js jeszcze nie skonczyłam dodałam wyt�
 ver0.3.beta
 
 Napisałam kod w js dziala poprawnie ale jeszcze sa bledy z obliczeniami.
+
+ver0.4.beta
+
+Debugowanie 
+
+wybrany debugger: Chrome DevTools (Debugger w przeglądarce)
+
+Cel:Sprawdzenie czy Kalkulator zwraca niepoprawny wynik dla niektórych operacji na liczbach dziesiętnych i poprawienie kodu w razie wystąpienia bładu.
+
