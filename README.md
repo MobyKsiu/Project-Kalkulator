@@ -26,6 +26,8 @@ Zarządzanie błędami który zrobił użytkownik: możliwość usuwania nie cal
 
 Reakcja na kliknięcia:Po najechaniu na przycisk użytkownik widzi natychmiastową reakcję zmieniający się efekt wizualny przycisku.
 
+W panelu historia znajduję się przycisk wyczyść który użytkownik może nacisnóć i historia jego działań będzie usunięta
+
 Co było wykorzystane przy napisaniu kodu?
 
 HTML,CSS,Java Script i pisałam ten projekt w Visual Studio Code.
@@ -62,13 +64,15 @@ Przycisk „%”: Pozwala na obliczenie procentu wartości.
 
 Przycisk „=”: Oblicza wynik wyrażenia matematycznego i wyświetla go na ekranie.
 
-A tak żd panel z histori
+A tak że panel z historią działania użytkownika (zapis danych)
+
+I opis jak działa aplikacja 
 
 Instrukcja użytkowania
  
 Aby skorzystać z aplikacji kalkulatora:
 
-1.Otwórz stronę w przeglądarce internetowej.
+1.Otwórz stronę w przeglądarce internetowej naciskając plik index.html.
 
 2.Kliknij na odpowiednie przyciski numeryczne, aby wprowadzić liczby.
 
@@ -79,6 +83,8 @@ Aby skorzystać z aplikacji kalkulatora:
 5.Aby wyczyścić wprowadzone dane, naciśnij przycisk „AC”.
 
 6.Aby usunąć ostatni wprowadzony znak, użyj przycisku „<”.
+
+7.Po lewej stronie od kalkulatora znajduje się historia działań użytkownika która zawiera wszystkie twije obliczenia ty możesz ich obejrzyć a tak że usunąć całą historię naciskając przycisk wyczyśc.
 
 ver0.00.beta
 
@@ -106,7 +112,7 @@ Cel:Sprawdzenie czy Kalkulator zwraca niepoprawny wynik dla niektórych operacji
 
 ver1.0
 
-Kalkulator został ukonczony 
+Kalkulator został ukonczony w 100% ostatnie działanie które byly dokonanę dla ulepszenia kalkulatora to dodanie historii a tak że zmiana koloru aplikacji.
 
 Żródła
 
