@@ -62,6 +62,8 @@ Przycisk „%”: Pozwala na obliczenie procentu wartości.
 
 Przycisk „=”: Oblicza wynik wyrażenia matematycznego i wyświetla go na ekranie.
 
+A tak żd panel z histori
+
 Instrukcja użytkowania
  
 Aby skorzystać z aplikacji kalkulatora:
@@ -102,3 +104,16 @@ wybrany debugger: Chrome DevTools (Debugger w przeglądarce)
 
 Cel:Sprawdzenie czy Kalkulator zwraca niepoprawny wynik dla niektórych operacji na liczbach dziesiętnych i poprawienie kodu w razie wystąpienia bładu.
 
+ver1.0
+
+Kalkulator został ukonczony 
+
+Żródła
+
+https://chatgpt.com/
+
+https://chat.deepseek.com/
+
+https://alphacoders.com/
+
+https://www.youtube.com/watch?v=_x8mNUBhLSk&t=1s
