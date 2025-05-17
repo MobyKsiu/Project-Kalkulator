@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Celestial Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    	
+	<div class="app">
+
+        <div class="history-container">
+            <div class="history-header">
+                <h3>Historia</h3>
+                <button id="clear-history" class="clear-history">Wyczyść</button>
+            </div>
+            <div class="history-content" id="history-content">
+            </div>
+        </div>
+
+		<div class="calculator">
+
+			<div class="display">
+				<div class="content">
+					<div class="input"></div>
+					<div class="output"></div>
+				</div>
+			</div>
+
+			<div class="keys">
+
+				<div data-key="clear" class="key action">
+					<span>AC</span>
+				</div>
+
+				<div data-key="brackets" class="key action">
+					<span>( )</span>
+				</div>
+
+				<div data-key="%" class="key action">
+					<span>%</span>
+				</div>
+
+				<div data-key="/" class="key operator">
+					<span>÷</span>
+				</div>
+
+				<div data-key="7" class="key">
+					<span>7</span>
+				</div>
+
+				<div data-key="8" class="key">
+					<span>8</span>
+				</div>
+
+				<div data-key="9" class="key">
+					<span>9</span>
+				</div>
+
+				<div data-key="*" class="key operator">
+					<span>x</span>
+				</div>
+
+				<div data-key="4" class="key">
+					<span>4</span>
+				</div>
+
+				<div data-key="5" class="key">
+					<span>5</span>
+				</div>
+
+				<div data-key="6" class="key">
+					<span>6</span>
+				</div>
+
+				<div data-key="-" class="key operator">
+					<span>-</span>
+				</div>
+
+				<div data-key="1" class="key">
+					<span>1</span>
+				</div>
+
+				<div data-key="2" class="key">
+					<span>2</span>
+				</div>
+
+				<div data-key="3" class="key">
+					<span>3</span>
+				</div>
+
+				<div data-key="+" class="key operator">
+					<span>+</span>
+				</div>
+
+				<div data-key="backspace" class="key action">
+					<span>&lt;</span>
+				</div>
+
+				<div data-key="0" class="key">
+					<span>0</span>
+				</div>
+
+				<div data-key="." class="key">
+					<span>.</span>
+				</div>
+				
+				<div data-key="=" class="key operator">
+					<span>=</span>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+    <div class="pythagoras-container">
+            <h2><center>Kalkulator Pitagorasa</center></h2>
+            <div class="triangle-container">
+                <svg width="200" height="180" viewBox="0 0 200 180">
+                    <polygon points="40,20 40,160 160,160" fill="#3498db" />
+                    <text id="a-label" x="100" y="175" text-anchor="middle">a</text>
+                    <text id="b-label" x="25" y="90" text-anchor="middle" dominant-baseline="middle">b</text>
+                    <text id="c-label" x="110" y="50" text-anchor="middle" transform="rotate(-45, 110, 50)">c</text>
+                    <line x1="40" y1="20" x2="160" y2="160" stroke="#2c3e50" stroke-width="1" stroke-dasharray="3,3" />
+                </svg>
+            </div>
+            
+            <div class="pythagoras-calculator">
+                <div class="input-group">
+                    <label for="sideA">Bok a:</label>
+                    <input type="number" id="sideA" placeholder="Wprowadź a" min="0">
+                </div>
+                <div class="input-group">
+                    <label for="sideB">Bok b:</label>
+                    <input type="number" id="sideB" placeholder="Wprowadź b" min="0">
+                </div>
+                <div class="input-group">
+                    <label for="sideC">Bok c:</label>
+                    <input type="number" id="sideC" placeholder="Wprowadź c" min="0">
+                </div>
+                <div class="button-group">
+                    <button onclick="calculatePythagoras()">Oblicz</button>
+                    <button onclick="clearPythagoras()">Wyczyść</button>
+                </div>
+                <div id="pythagoras-result"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="int">
+        <p><center> "Celestial Calculator"</center></p>
+		<p><center>Aby skorzystać z aplikacji kalkulatora,potrzebno kliknąć na odpowiednie przyciski numeryczne i operatory matematyczne, za pomocą tych działań wprowadzić dane, a następnie nacisnąć przycisk "=" w celu uzyskania wyniku obliczenia. W razie potrzeby, użytkownik może użyć przycisków „AC” do czyszczenia danych lub „<” do usunięcia ostatniego wprowadzonego znaku. Aplikacja tak że zawiera historię która przechowuje danę możesz ją usunąć za pomocą przycisku wyczyść .Dodatkowo jest funkcja zmiany koloru aplikacji odpowiada za to przycisk zmiana motywu . Kalkulator Pitagorasa, żeby skorzystać z tej funkciji użytkownik musi wprowadzi dwie dowolne wartosci dla dowolnego boku (a,b,c) póżniej nacisnąć przycisk oblicz , a tak że użytkownik może usunąc wszystkie danę korzystając z przycisku Wyczyść.</center></p>
+		<center>
+			<button id="theme-toggle" class="theme-toggle" title="Zmień motyw">Zmiana motywu</button>
+		</center>
+	</div>
+	
+	<script src="script.js"></script>
+	
+</body>
+</html>
