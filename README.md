@@ -76,21 +76,23 @@ Instrukcja użytkowania
  
 Aby skorzystać z aplikacji kalkulatora:
 
-1.Otwórz stronę w przeglądarce internetowej naciskając plik index.html.
+1.Pobrać folder Kalkulator ver1.0.
 
-2.Kliknij na odpowiednie przyciski numeryczne, aby wprowadzić liczby.
+2.Otwórz stronę w przeglądarce internetowej naciskając plik index.html.
 
-3.Wybierz odpowiednie operatory matematyczne (np. dodawanie, odejmowanie, mnożenie, dzielenie) w zależności od obliczenia.
+3.Kliknij na odpowiednie przyciski numeryczne, aby wprowadzić liczby.
 
-4.Naciśnij przycisk "=" w celu obliczenia wyniku.
+4.Wybierz odpowiednie operatory matematyczne (np. dodawanie, odejmowanie, mnożenie, dzielenie) w zależności od obliczenia.
 
-5.Aby wyczyścić wprowadzone dane, naciśnij przycisk „AC”.
+5.Naciśnij przycisk "=" w celu obliczenia wyniku.
 
-6.Aby usunąć ostatni wprowadzony znak, użyj przycisku „<”.
+6.Aby wyczyścić wprowadzone dane, naciśnij przycisk „AC”.
 
-7.Po lewej stronie od kalkulatora znajduje się historia działań użytkownika która zawiera wszystkie twoje obliczenia ty możesz ich obejrzyć a tak że usunąć całą historię naciskając przycisk wyczyśc.
+7.Aby usunąć ostatni wprowadzony znak, użyj przycisku „<”.
 
-8.A tak że można skorzystać z funkciji zmiany koloru aplikacji naciskając przycisk zmiana motywu.
+8.Po lewej stronie od kalkulatora znajduje się historia działań użytkownika która zawiera wszystkie twoje obliczenia ty możesz ich obejrzyć a tak że usunąć całą historię naciskając przycisk wyczyśc.
+
+9.A tak że można skorzystać z funkciji zmiany koloru aplikacji naciskając przycisk zmiana motywu.
 
 ver0.00.beta
 
