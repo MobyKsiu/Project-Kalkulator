@@ -2,7 +2,7 @@
 # My first GitHub project
 Do czego służy aplikacja(cel)?
 
-Celem projektu, który ja stworzyłam, jest kalkulator o nazwie „Celestial Calculator”, który umożliwia wykonywanie podstawowych operacji matematycznych, takich jak dodawanie, odejmowanie, mnożenie, dzielenie, obliczanie procentów i korzystanie z nawiasów.Jest powszechnie używana w życiu codziennym, w szkołach i w pracy, co ułatwia szybkie rozwiązywanie problemów matematycznych.
+Celem projektu, który ja stworzyłam, jest kalkulator o nazwie „Celestial Calculator”, który umożliwia wykonywanie podstawowych operacji matematycznych, takich jak dodawanie, odejmowanie, mnożenie, dzielenie, obliczanie procentów i korzystanie z nawiasów.Jest powszechnie używana w życiu codziennym, w szkołach i w pracy, co ułatwia szybkie rozwiązywanie problemów matematycznych.Dodatkowo kalkulator obliczający twierdzenie pitagorasa.
 
 Jak działa (zasada)?
 
@@ -72,6 +72,8 @@ I opis jak działa aplikacja
 
 Oraz przycisk zmiana koloru aplikacjii
 
+Odzielny kalkulator Pitagorasa  który po podaniu dwóch wartości oblicza pozostaly bok .
+
 Instrukcja użytkowania
  
 Aby skorzystać z aplikacji kalkulatora:
@@ -93,6 +95,8 @@ Aby skorzystać z aplikacji kalkulatora:
 8.Po lewej stronie od kalkulatora znajduje się historia działań użytkownika która zawiera wszystkie twoje obliczenia ty możesz ich obejrzyć a tak że usunąć całą historię naciskając przycisk wyczyśc.
 
 9.A tak że można skorzystać z funkciji zmiany koloru aplikacji naciskając przycisk zmiana motywu.
+
+10.Pod glównym kalkulatorem znajduje się kalkulator który oblicza twierdzenie pitagorasa  dla korzystania z tego kalkulatora potrzebujesz wprowadzic dwie wartości (a,b,c) i pozostaly bok który nie został podany będzie obliczony a po swoich działaniach użytkownik może skorzystać z przycisku wyczyść.
 
 ver0.00.beta
 
@@ -120,7 +124,7 @@ Cel:Sprawdzenie czy Kalkulator zwraca niepoprawny wynik dla niektórych operacji
 
 ver1.0
 
-Kalkulator został ukonczony w 100% ostatnie działanie które byly dokonanę dla ulepszenia kalkulatora to dodanie historii a tak że możliwość zmiany koloru aplikacji.
+Kalkulator został ukonczony w 100% ostatnie działanie które byly dokonanę dla ulepszenia kalkulatora to dodanie historii a tak że możliwość zmiany koloru aplikacji oraz kalkulator obliczający pitagorasa.
 
 Żródła
 
