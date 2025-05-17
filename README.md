@@ -26,7 +26,9 @@ Zarządzanie błędami który zrobił użytkownik: możliwość usuwania nie cal
 
 Reakcja na kliknięcia:Po najechaniu na przycisk użytkownik widzi natychmiastową reakcję zmieniający się efekt wizualny przycisku.
 
-W panelu historia znajduję się przycisk wyczyść który użytkownik może nacisnóć i historia jego działań będzie usunięta
+W panelu historia znajduję się przycisk wyczyść który użytkownik może nacisnóć i historia jego działań będzie usunięta .
+
+Użytkownik może wybrać kolor aplikacji w którym jest lepiej dla niego pracować.
 
 Co było wykorzystane przy napisaniu kodu?
 
@@ -68,6 +70,8 @@ A tak że panel z historią działania użytkownika (zapis danych)
 
 I opis jak działa aplikacja 
 
+Oraz przycisk zmiana koloru aplikacjii
+
 Instrukcja użytkowania
  
 Aby skorzystać z aplikacji kalkulatora:
@@ -84,7 +88,9 @@ Aby skorzystać z aplikacji kalkulatora:
 
 6.Aby usunąć ostatni wprowadzony znak, użyj przycisku „<”.
 
-7.Po lewej stronie od kalkulatora znajduje się historia działań użytkownika która zawiera wszystkie twije obliczenia ty możesz ich obejrzyć a tak że usunąć całą historię naciskając przycisk wyczyśc.
+7.Po lewej stronie od kalkulatora znajduje się historia działań użytkownika która zawiera wszystkie twoje obliczenia ty możesz ich obejrzyć a tak że usunąć całą historię naciskając przycisk wyczyśc.
+
+8.A tak że można skorzystać z funkciji zmiany koloru aplikacji naciskając przycisk zmiana motywu.
 
 ver0.00.beta
 
@@ -112,7 +118,7 @@ Cel:Sprawdzenie czy Kalkulator zwraca niepoprawny wynik dla niektórych operacji
 
 ver1.0
 
-Kalkulator został ukonczony w 100% ostatnie działanie które byly dokonanę dla ulepszenia kalkulatora to dodanie historii a tak że zmiana koloru aplikacji.
+Kalkulator został ukonczony w 100% ostatnie działanie które byly dokonanę dla ulepszenia kalkulatora to dodanie historii a tak że możliwość zmiany koloru aplikacji.
 
 Żródła
 
