@@ -1,4 +1,4 @@
-Autorska licencja oprogramowania – wersja 1.0
+Autorska licencja oprogramowania 
 
 Copyright (c) 2025 Oksana Maidanska
 
